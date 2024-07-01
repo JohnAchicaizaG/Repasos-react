@@ -16,14 +16,14 @@ Antes de comenzar, asegúrate de tener Node.js v21 instalado. Luego, sigue estos
 1. **Clona el repositorio:**
    ```bash
    git clone [https://github.com/tuusuario/proyecto-repaso-react.git](https://github.com/JohnAchicaizaG/Repasos-react.git)
-  ```
+  
 
 2. **Instalar proyecto:**
-```
+```bash
   yarn 
 ```
 
 2. **Instalar proyecto:**
-```
+```bash
   yarn dev
 ```
