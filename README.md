@@ -23,7 +23,7 @@ Antes de comenzar, asegúrate de tener Node.js v21 instalado. Luego, sigue estos
   yarn 
 ```
 
-2. **Instalar proyecto:**
+2. **Correr proyecto:**
 ```bash
   yarn dev
 ```
